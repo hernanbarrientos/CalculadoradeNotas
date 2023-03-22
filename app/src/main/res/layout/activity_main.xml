@@ -100,10 +100,10 @@
         />
     
     <TextView
-        android:id="@+id/resultado"
+        android:id="@+id/tv_resultado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Aluno aprovado"
+        android:text=""
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_below="@id/btn_calcular"
